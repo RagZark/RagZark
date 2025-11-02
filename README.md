@@ -1,4 +1,4 @@
-## Eai, tudo beleza?! Eu sou o Danver Vernetti, programador e desenvolvedor!
+## Hi guys, i'm Danver/RagZark and this is all my personal projects.
 
  <div>
    <a href="https://github.com/RagZark">
